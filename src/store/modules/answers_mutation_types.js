@@ -1,0 +1,18 @@
+export const SET_SEARCHED_RESULT = 'SET_SEARCHED_RESULT';
+export const SET_AUTHOR = 'SET_AUTHOR';
+export const SET_QUESTION = 'SET_QUESTION';
+export const ADD_SEARCHED_RESULT = 'ADD_SEARCHED_RESULT';
+export const SET_ANSWERS = 'SET_ANSWERS';
+
+
+
+const all = {
+  SET_SEARCHED_RESULT,
+  SET_AUTHOR,
+  SET_QUESTION,
+  ADD_SEARCHED_RESULT,
+  SET_ANSWERS
+}
+
+
+export default all;
